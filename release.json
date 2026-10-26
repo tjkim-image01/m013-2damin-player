@@ -1,0 +1,10 @@
+{
+  "kind": "viewer-only",
+  "frameCount": 240,
+  "sourceFps": 24.0,
+  "baseSpeed": 2,
+  "defaultMode": "pingpong",
+  "audioIndependent": true,
+  "voice": "Typecast 은솔",
+  "audioSha256": "bee9812536c71561b29e239f877c683568dcc30b7639455ad10e87dd6ac15aa1"
+}
